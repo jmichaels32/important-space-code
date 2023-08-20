@@ -1,7 +1,7 @@
-# Important Space Code
+# Important Space Code :rocket::rocket:
 
-## Top Secret
+## Top Secret :no_entry_sign::no_entry_sign:
 
-### Classified
+### Classified :lock::lock:
 
-#### This is a blank repository used for a GitHub tutorial
+This is a blank repository used for a GitHub tutorial. 
